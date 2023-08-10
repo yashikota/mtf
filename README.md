@@ -33,13 +33,13 @@ dec - Decode text encoded by Move-To-Front
 ./enc test.txt
 ```
 
-The `test.txt` is MTF transform and `test.mtf` is generated.  
+The `test.txt` is MTF transformed and `test.mtf` is generated.  
 
 ```sh
 ./enc -o output.mtf input.txt
 ```
 
-The `input.txt` is MTF transform and `output.mtf` is generated.  
+The `input.txt` is MTF transformed and `output.mtf` is generated.  
 
 ### Decode
 
@@ -47,13 +47,13 @@ The `input.txt` is MTF transform and `output.mtf` is generated.
 ./dec test.mtf
 ```
 
-The `test.mtf` is decode and `test.txt` is generated.  
+The `test.mtf` is decoded and `test.txt` is generated.  
 
 ```sh
 ./dec -o output.txt input.mtf
 ```
 
-The `input.mtf` is decode and `output.txt` is generated.  
+The `input.mtf` is decoded and `output.txt` is generated.  
 
 ## Build
 
