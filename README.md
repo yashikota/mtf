@@ -4,7 +4,7 @@
 
 ## Name
 
-enc - Encodes input text using the Move-To-Front transform
+enc - Encodes input text using the Move-To-Front transform  
 dec - Decode text encoded by Move-To-Front
 
 ## Synopsis

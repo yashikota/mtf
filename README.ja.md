@@ -4,7 +4,7 @@
 
 ## Name
 
-enc - 入力されたテキストをMove-To-Front法で符号化
+enc - 入力されたテキストをMove-To-Front法で符号化  
 dec - Move-To-Front法で符号化されたテキストを復号
 
 ## Synopsis
